@@ -1,0 +1,2 @@
+# Flask Extensions
+Flask extension are pre-build packages that you can use in your project. Flask gvies you the flexibility of creating your own extensions. But a good tip is to use extension that the community has already built. Since they would be better tested. But if you don't fine an extension specific to your need than you can create your own. This will also be beneficial for others in the community. 
